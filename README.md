@@ -6,7 +6,7 @@
 - 📫 How to reach me: miguelian@uma.es
 
 
-#### Working with:
+### Working with:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 
