@@ -13,8 +13,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 
-
-
 ### My Stats
 
 <div style="text-align: center">
@@ -24,4 +22,26 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelIIan&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<!--
+```mermaid
+mindmap
+  root((mindmap))
+    Origins
+      Long history
+      ::icon(fa fa-book)
+      Popularisation
+        British popular psychology author Tony Buzan
+    Research
+      On effectivness<br/>and features
+      On Automatic creation
+        Uses
+            Creative techniques
+            Strategic planning
+            Argument mapping
+    Tools
+      Pen and paper
+      Mermaid
+```
+-->
 
